@@ -1,0 +1,23 @@
+Binary Search Tree Index:
+-------------------------
+Hello                          1
+Is                             3
+It                             4
+a                              1
+difficult                      4
+exactly                        2, 7
+function                       3, 6
+getline                        2
+how                            2, 5
+is                             1, 4
+it                             3
+of                             2
+predict                        5
+test                           1
+the                            2, 5
+this                           1
+to                             5
+will                           6
+work                           6, 7
+working                        4
+works                          3

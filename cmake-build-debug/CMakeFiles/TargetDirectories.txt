@@ -1,0 +1,3 @@
+/Users/juanmartinez/Downloads/bst/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/juanmartinez/Downloads/bst/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/juanmartinez/Downloads/bst/cmake-build-debug/CMakeFiles/bst.dir
