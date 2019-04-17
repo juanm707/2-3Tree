@@ -92,7 +92,7 @@ void BST::buildTree(ifstream & input){
 	<<"Total time spent building index: " << totalTime << endl;
 
 	cout << setw(40) << std::left
-	<<"Height of BST is : " << treeHeight << endl;
+	<<"Height of BST is: " << treeHeight << endl;
  
 }
 
@@ -102,6 +102,9 @@ void BST::buildTree(ifstream & input){
 //and used by buildTree
 void BST::insertHelper(const string &x, int line, node *& t, int &distWord){
     if(t == NULL){
+		if (x == "anophoria") {
+			int a = 0;
+		}
 	    t = new node(x, NULL, NULL);
 	    t->lines.push_back(line);
 	    distWord++;

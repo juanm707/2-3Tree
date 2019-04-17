@@ -13,16 +13,18 @@ vector<string> getDistinctWords(istream& input);
 
 int main(int argc, char* argv[]) {
 	int choice;
-	/*if (argc != 2) {
+	if (argc != 2) {
 	    cout << "Incorrect input. Correct format: ./<exectuable.out> <inputtext.txt>\n";
 	    return 1;
-	}*/
+	}
 
-    string filename = "/Users/juanmartinez/Downloads/bst/tale.txt";
-    ifstream input;
-	//ifstream input(argv[1]);
+    //string filename = "/Users/juanmartinez/Downloads/bst/words.txt";
+    //ifstream input;
+
+	ifstream input(argv[1]);
+
     //ifstream input (filename, ifstream::in);
-    input.open(filename, ifstream::in);
+    //input.open(filename, ifstream::in);
 
 	BST myBST_Tree;
     TTTree my2_3Tree;
