@@ -1,0 +1,51 @@
+Binary Search Tree Index:
+-------------------------
+All                            1
+Environed                      26
+Farmer                         34
+Thus                           67
+Woodman                        31
+a                              5, 64
+and                            4, 13, 24, 32, 43, 50, 58
+by                             27
+came                           9
+carried                        59
+close                          14
+dear                           17
+divine                         61
+enough                         57
+faces                          53
+fair                           52
+hand                           66
+high                           65
+hundred                        23
+in                             12
+jaws                           42
+large                          41
+like                           7
+of                             39, 47
+old                            18
+one                            20
+other                          45
+pass                           11
+plain                          49
+rights                         62
+seven                          22
+seventy-five                   25
+stir                           56
+the                            16, 30, 33, 40, 48, 51
+their                          60
+them                           8, 28
+these                          2
+things                         3
+those                          37, 44
+thousand                       6, 21
+to                             10
+trod                           54
+two                            38, 46
+unheeded                       36
+upon                           15
+while                          29
+with                           55, 63
+worked                         35
+year                           19

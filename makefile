@@ -13,4 +13,4 @@ TTTree.o: TTTree.h TTTree.cpp
 	g++ $(CFLAGS) -c -o TTTree.o TTTree.cpp
 
 clean:
-	rm -f *.o *.x *~
+	rm -f *.o *.out *.x *~

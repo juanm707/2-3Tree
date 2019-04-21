@@ -82,6 +82,8 @@ void BST::buildTree(ifstream & input){
 	treeHeight = findHeight(root);
 
 	//Print output
+	cout << "\nBinary Search Tree Info\n";
+	cout << "-----------------------\n";
 	cout << setw(40) << std::left;
 	cout << "Total number of words: " << numWords<< endl;
 
@@ -102,9 +104,6 @@ void BST::buildTree(ifstream & input){
 //and used by buildTree
 void BST::insertHelper(const string &x, int line, node *& t, int &distWord){
     if(t == NULL){
-		if (x == "anophoria") {
-			int a = 0;
-		}
 	    t = new node(x, NULL, NULL);
 	    t->lines.push_back(line);
 	    distWord++;

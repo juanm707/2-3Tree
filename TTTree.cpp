@@ -47,13 +47,13 @@ void TTTree::contains() const {
 bool TTTree::containsHelper(const string & x, TTNode * t, TTNode * &result) const{
     if (t == NULL)
         return false;
-    if ((t->leftKey == x) || (t->rightKey == x)) { //if its equal to either the left or right key
+    if ((t->leftKey == x) || (t->rightKey == x)) {
         result = t;
         return true;
     }
     else if (x < t->leftKey)
         return containsHelper(x, t->left, result);
-    else if (t->rightKey.empty() || (x < t->rightKey)) //x.compare(t->rightKey) < 0 incase...
+    else if (t->rightKey.empty() || (x < t->rightKey))
         return containsHelper(x, t->center, result);
     else
         return containsHelper(x, t->right, result);
@@ -139,6 +139,8 @@ void TTTree::buildTree(ifstream & input){
     treeHeight = findHeight(root);
 
     //Print output
+    cout << "\n2-3 Tree Info\n";
+    cout << "-------------\n";
     cout << setw(40) << std::left;
     cout << "Total number of words: " << numWords<< endl;
 
@@ -181,16 +183,10 @@ TTTree::TTNode* TTTree::insertHelper(const string & X, int line, TTNode* & t, in
 
         distWords++;
 
-        //string check = t->leftKey;
         TTNode* _old = new TTNode(X, "", NULL, NULL, NULL);
         _old->leftLines.push_back(line);
 
         TTNode* _new = t->add(_old, line);
-
-        /*if(check == t->leftKey)
-            t->rightLines.push_back(line);
-        else
-            t->leftLines.push_back(line);*/
 
         return _new;
     }

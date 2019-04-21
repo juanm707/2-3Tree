@@ -1,17 +1,22 @@
 //Description: Takes a text file supplied by the user
 //             and turns it into a word index, implemented
-//             through the use of a BST 
+//             through the use of a BST and 2-3 Tree
+
+//Group Members: Nathan Kamm, and Juan Martinez
 
 #include <iostream>
 #include <fstream>
 #include <iomanip>
+#include <algorithm>
 #include "bst.h"
 #include "TTTree.h"
+
 using namespace std;
 
 vector<string> getDistinctWords(istream& input);
 
 int main(int argc, char* argv[]) {
+
 	int choice;
 	if (argc != 2) {
 	    cout << "Incorrect input. Correct format: ./<exectuable.out> <inputtext.txt>\n";
@@ -110,7 +115,7 @@ int main(int argc, char* argv[]) {
                 else
                     break;
             }
-        }
+        }//end 2-3 tree
 
         else if (c == 'c') {
             //If option (c) is chosen, the program builds both the BST and 2-3 Tree, creates the index
@@ -134,7 +139,7 @@ int main(int argc, char* argv[]) {
                     //if found move on
                 }
                 else {
-                    cout << "ERROR in searching BST for " << word << endl;
+                    cout << "ERROR in searching BST for: " << word << endl;
                 }
             }
             //Do time and height calculation
@@ -148,7 +153,7 @@ int main(int argc, char* argv[]) {
                     //if found move on
                 }
                 else {
-                    cout << "ERROR in searching 2-3 Tree for " << word << endl;
+                    cout << "ERROR in searching 2-3 Tree for: " << word << endl;
                 }
             }
             //Do time and height calculation
@@ -161,7 +166,7 @@ int main(int argc, char* argv[]) {
                  <<"Total time taken by BST: " << BSTtotalTime << endl;
 
             cout << setw(40) << std::left
-                 <<"Total time taken by 2-3 Tree: " << TT_totalTime << endl;
+                 <<"Total time taken by 2-3 Tree: " << TT_totalTime << endl << endl;
 
         }
     }

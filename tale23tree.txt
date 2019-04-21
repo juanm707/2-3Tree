@@ -1,0 +1,491 @@
+2-3 Tree Index:
+-------------------------
+"in                            70
+"the                           67
+(supernaturally                29
+All                            91
+America                        32
+British                        31
+But                            55
+Captain                        67
+Christian                      39
+City                           65
+Cock-lane                      26, 34
+Court                          78
+Crown                          31
+Daring                         61
+Darkness                       4
+Death                          53
+England                        14, 21, 60
+English                        31
+Environed                      93
+Even                           26
+Farmer                         53, 55, 94
+Fate                           47
+France                         15, 36, 46
+Giles's                        79
+Greatnesses                    98
+Green                          73
+Guards                         24
+Hall                           87
+Heaven                         7
+In                             15, 60, 82
+It                             1, 20, 45, 49
+Life                           24
+Light                          4
+London                         26, 72, 75
+Lord                           20, 72
+Mayor                          72
+Mere                           30
+Mrs                            22
+Newgate                        86
+Norway                         46
+Our                            20
+Paris                          51
+People                         31
+Revolution                     54
+Saturday                       85
+Southcott                      22
+Spiritual                      21
+St                             79
+State                          16
+There                          13
+Thus                           96
+Tuesday                        86
+Turnham                        73
+Under                          39
+Westminster                    26, 87
+Woodman                        47, 55, 93
+a                              13, 13, 13, 13, 14, 14, 15, 15, 23, 27, 31, 41, 43, 44, 48, 49, 49, 65, 85, 88, 89, 91, 96
+about                          53, 56
+achievements                   40
+adjacent                       51
+after                          27, 71
+age                            2, 2
+alive                          42
+all                            7, 7, 74
+already                        47, 54
+ammunition                     71
+among                          76, 99
+amount                         60
+an                             60, 88
+and                            13, 14, 17, 20, 26, 31, 37, 38, 42, 46, 48, 49, 53, 55, 56, 58, 60, 62, 66, 66, 68, 69, 69, 73, 76, 77, 80, 80, 81, 83, 87, 88, 91, 92, 93, 93, 94, 95, 96, 97, 98
+announcing                     25
+any                            33, 34, 57, 81
+apart                          54
+appearance                     25
+armed                          61
+arrangements                   25
+as                             22, 28, 36, 40, 56, 57
+at                             21, 22, 44, 78, 86, 87
+atheistical                    58
+atrocious                      88
+attained                       23
+authorities                    9
+awake                          58
+away                           68
+ball                           77
+battles                        75
+be                             48, 54, 58
+because                        42
+been                           27, 85
+before                         6, 6, 99
+being                          10, 66
+belief                         3
+besides                        40
+bespattered                    52
+best                           1
+birthday                       23
+blessed                        23
+blunderbusses                  76
+boards                         48
+boasting                       61
+body                           42
+both                           15
+boy                            89
+brood                          34
+burglaries                     61
+burned                         42
+burning                        86, 87
+busy                           83
+by                             25, 47, 53, 53, 61, 66, 69, 70, 73, 86, 93
+came                           91
+capital                        62
+carried                        96
+carts                          52
+cautioned                      63
+certain                        48
+challenged                     66
+character                      67
+chickens                       34
+chronicle                      99
+clearer                        16
+close                          92
+come                           30, 47
+common                         82
+communications                 33
+comparison                     11
+conceded                       21
+conduct                        97
+congress                       31
+consequence                    70
+constant                       84
+contraband                     80
+countries                      16
+creature                       74
+creatures                      98
+creatures--the                 98
+criminals                      85
+crosses                        78
+crystal                        16
+cut                            41
+dark                           65
+day                            52
+dead                           69, 70
+dear                           92
+death                          47
+deficient                      29
+degree                         10
+deliver                        73
+despair                        5
+despoiled                      74
+diamond                        78
+did                            96
+direct                         7, 7
+dirty                          43
+distance                       44
+divine                         96
+do                             43
+door                           87
+down                           38, 43, 48
+dozen                          27, 87
+drawing-rooms                  79
+earthly                        30
+enough                         45, 50, 95
+entertain                      57
+entertained                    39
+epoch                          3, 3
+events                         30
+ever                           18, 83, 83
+every                          63
+everything                     6
+evil                           10
+exceeding                      37
+face                           13, 15
+faces                          95
+failure                        71
+fair                           15, 95
+families                       63
+far                            8
+farmer's                       89
+favoured                       22, 36
+fellow                         66
+fifty                          44
+fired                          76, 80, 81
+fishes                         17
+five-and-twentieth             23
+foolishness                    2
+for                            10, 10, 18, 25, 65, 79
+forasmuch                      57
+fought                         75
+four                           70
+framework                      48
+from                           31, 51, 78
+furniture                      64
+gallantly                      68
+gaols                          75
+general                        17
+ghost                          27
+go                             63
+going                          7, 7
+good                           10
+goods                          80
+got                            70
+growing                        46
+guard                          69
+guidance                       39
+had                            6, 6, 22, 24, 27, 30, 42, 54, 85, 89
+hand                           86, 96
+hands                          41
+hanging                        85
+hangman                        83
+have                           32, 41
+he                             42, 67
+head                           68
+heard                          56
+heavy                          50
+her                            23, 37, 39
+heralded                       24
+herself                        40
+high                           96
+highway                        62
+highwayman                     65, 73
+hill                           38
+him                            68
+himself                        70
+his                            41, 41, 42, 44, 54, 66, 67, 71, 74
+history                        49
+honour                         43
+hope                           5
+housebreaker                   85
+human                          33
+humane                         40
+hundred                        20, 92, 97
+illustrious                    74
+important                      32
+in                             10, 17, 24, 29, 30, 32, 43, 45, 49, 49, 50, 53, 62, 65, 65, 67, 71, 74, 75, 76, 83, 86, 91
+incredulity                    3
+insisted                       9
+into                           48, 79
+is                             45, 49
+it                             1, 2, 2, 3, 3, 4, 4, 5, 5, 16, 38, 49
+its                            9, 9, 28
+itself                         62
+jaw                            13, 14
+jaws                           94
+justify                        61
+king                           13, 14
+kneeled                        42
+knife                          49
+laid                           27
+lands                          51
+large                          13, 14, 94
+last                           28
+lately                         30
+law                            76
+lay                            99
+less                           36
+life                           88
+light                          66
+like                           8, 91
+likely                         45, 49
+loaded                         77
+loaves                         17
+long                           84
+lords                          16, 78
+made                           25, 73
+magnificent                    72
+mail                           68, 71
+majesty                        76
+make                           48
+making                         38
+marked                         47
+matters                        36
+men                            62
+messages                       28, 30
+midst                          82
+mire                           52
+miscellaneous                  84
+mob                            80, 81
+money                          38
+monks                          43
+more                           32
+movable                        48
+much                           61, 82
+muffled                        57
+murderer                       88
+musketeers                     79, 80, 81
+myriads                        98
+national                       61
+necks                          78
+night                          63
+no                             56
+noble                          78
+nobody                         81
+noisiest                       9
+not                            42, 63
+nothing                        6
+now                            84, 85, 86, 87
+occurrences                    82
+of                             1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 9, 11, 14, 15, 16, 17, 20, 23, 26, 27, 28, 30, 31, 34, 34, 37, 39, 43, 44, 45, 50, 50, 54, 60, 63, 67, 70, 71, 72, 74, 76, 77, 78, 81, 82, 82, 84, 87, 88, 88, 89, 94, 95, 98, 98
+off                            41, 77
+old                            92
+on                             9, 14, 15, 36, 73, 80, 81, 85, 86
+one                            20, 56, 73, 92, 97
+only                           11, 27
+or                             10, 44
+order                          30, 60
+originality                    29
+other                          8, 70, 95
+out                            28, 29, 41, 63, 82
+outhouses                      50
+pamphlets                      87
+paper                          38
+pass                           91
+passed                         44
+past                           28
+pastors                        39
+peace                          72
+people                         86
+period                         8, 9, 22
+pigs                           53
+pilferer                       89
+pincers                        42
+place                          62
+plain                          13, 95
+potentate                      72
+poultry                        53
+present                        8
+preserves                      17
+prisoners                      75
+private                        24
+procession                     43
+prophetic                      24
+protection                     60
+proved                         32
+publicly                       63
+put                            47
+queen                          13, 15
+race                           33
+rain                           43
+rapped                         29
+rapping                        27
+rather                         57
+received                       10, 33
+recently                       22
+recognised                     66
+relate                         32
+removing                       64
+requisition                    84
+rest--along                    99
+retinue                        75
+revelations                    21
+rights                         96
+roads                          99
+robbed                         71, 89
+robberies                      62
+robbers                        69
+rode                           68
+rolled                         37
+roosted                        53
+rooted                         45
+rough                          50
+round                          27
+rounds                         77
+rows                           84
+rude                           52
+rustic                         52
+sack                           49
+sawn                           48
+scarcely                       60
+search                         79
+season                         4, 4
+security                       65
+sentencing                     40
+set                            54
+settled                        18
+seven                          20, 69, 92, 97
+seventy-five                   21, 93, 97
+she                            39
+sheltered                      51
+shield                         37
+short                          8
+shot                           68, 69, 70, 77
+sight                          74
+silently                       56
+sister                         37
+sixpence                       89
+sixty                          45
+small                          98
+smoothness                     38
+snipped                        77
+snuffed                        52
+so                             8
+some                           9, 44, 50
+spending                       38
+spirits                        28
+spiritual                      36
+spring                         5
+stand                          73
+stir                           95
+stopped                        67
+strange                        32
+stringing                      84
+subjects                       31
+sublime                        24
+such                           40
+sufferer                       46
+superlative                    10
+suspicion                      57
+swallowing                     26
+taken                          86
+taking                         88
+terrible                       49
+than                           16, 33, 36, 83
+that                           9, 17, 22, 25, 45, 46, 50, 52, 55, 55, 58, 72, 99
+the                            1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 8, 8, 8, 10, 14, 15, 16, 16, 20, 24, 24, 25, 26, 28, 30, 31, 33, 34, 34, 36, 37, 39, 43, 45, 47, 50, 50, 51, 53, 54, 57, 62, 65, 65, 66, 68, 68, 69, 70, 70, 71, 72, 74, 76, 76, 78, 80, 80, 80, 81, 82, 82, 83, 86, 87, 87, 88, 92, 93, 93, 94, 95, 95, 96, 99, 99
+their                          64, 75, 96, 97
+theirs                         29
+them                           56, 77, 82, 91, 93, 99
+then                           69
+there                          14, 46, 51, 60
+these                          81, 91
+they                           55, 56, 58
+thieves                        77
+things                         17, 91
+this                           22, 28, 98
+those                          94, 94
+though                         55
+thought                        81
+thousand                       20, 91, 92, 97
+three                          69
+throne                         14, 15
+through                        33, 68
+tillers                        50
+times                          1, 1
+to                             7, 16, 21, 30, 32, 33, 36, 41, 43, 43, 47, 47, 48, 51, 54, 57, 58, 61, 63, 64, 73, 79, 91
+to-day                         88
+to-morrow                      88
+tongue                         41
+took                           62
+torn                           41
+town                           64
+tradesman                      65, 67
+traitorous                     58
+tread                          57
+trees                          46
+trident                        37
+trod                           95
+tumbrils                       54
+turnkeys                       76
+two                            94, 95
+unceasingly                    55
+unheeded                       94
+up                             26, 84
+upholsterers                   64
+upon                           92
+us                             6, 6
+useless                        83
+very                           28, 52
+view                           44
+warehouses                     64
+was                            1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 8, 16, 20, 47, 58, 60, 65, 68, 71, 72, 83
+way                            82
+way--in                        8
+waylaid                        69
+we                             6, 6, 7, 7
+weather                        51
+went                           56, 79
+were                           7, 7, 13, 14, 17, 21, 25, 46, 51, 58, 63
+when                           46
+which                          32, 44, 53, 71
+while                          93
+who                            74, 85, 89
+whole                          36
+whom                           23, 67
+winter                         5
+wisdom                         2
+with                           13, 13, 14, 15, 37, 40, 41, 49, 52, 56, 75, 77, 95, 96
+within                         44
+without                        64
+woods                          45
+work                           55, 56
+worked                         94
+worse                          83
+worst                          1
+wretched                       89
+yards                          45
+year                           20, 28, 92, 97
+years                          27
+yet                            33
+youth                          41
